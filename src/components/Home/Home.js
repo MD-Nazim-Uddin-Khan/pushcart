@@ -9,7 +9,7 @@ const Home = () => {
 
     useEffect( ()=> {
         setData(DataInfo)
-        console.log(DataInfo)
+        // console.log(DataInfo)
     },[])
 
     return (

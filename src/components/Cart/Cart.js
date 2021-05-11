@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Cart = (props) => {
     const { name, img } = props.name;
-    console.log(name)
+    // console.log(name)
 
     return (
         <div  style={{textAlign:"center", border:"1px solid red"}}>
