@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "name": "BIKE",
+    "img":"https://bd.gaadicdn.com/processedimages/ktm/ktm-rc-390/640X309/ktm-rc-3905fd47df7b0e2f.jpg?tr=w-264,h-186"
+    
+  }, {
+    "id": 2,
+    "name": "CAR",
+    "img":"https://cdn.luxe.digital/media/2020/12/16175821/most-expensive-cars-2021-Maserati-MC20-luxe-digital%402x.jpg"
+  }, {
+    "id": 3,
+    "name": "BUS",
+    "img":"https://img.freepik.com/free-photo/white-bus-modern-park-city_100800-5400.jpg?size=626&ext=jpg"
+  }, {
+    "id": 4,
+    "name": "Train",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROd-YHLiydMRwDQwcTDT2DQhqvEhdEUE7_DA&usqp=CAU"
+  } 
+]

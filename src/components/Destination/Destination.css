@@ -1,0 +1,19 @@
+.just{
+    display: flex;
+}
+.just5 h6{
+    margin: 0;
+    margin-right: 30px;   
+}
+.just5{
+    background-color: rgb(206, 206, 206);
+    height: 160px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.just5 ::placeholder{
+    color: grey;
+}
+.just5 input{
+    outline: none;
+}

@@ -1,0 +1,11 @@
+.num{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bkg{
+    background-image: url(../../Pciture/Bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    width: 100%;
+}

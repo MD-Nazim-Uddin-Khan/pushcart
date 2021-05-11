@@ -1,0 +1,10 @@
+.navbar{
+    height: 50px;
+    font-weight: 700;
+}
+.navbar li {
+    display: inline;
+    list-style: none;
+    padding: 5px;
+    float: left;
+}
